@@ -53,5 +53,5 @@ Pull requests are welcome! For major changes, open an issue first to discuss wha
 This project is licensed under the MIT License.
 
 🧑‍💻 Author<br>
-Made with ❤️by Devanshu Dasgupta
+Made with ❤️by Devanshu Dasgupta<br>
 🌐 LinkedIn: https://www.linkedin.com/in/devanshu-dasgupta-509641299 | ✉️ devanshu.das.gupta14@gmail.com
