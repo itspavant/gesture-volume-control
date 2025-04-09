@@ -54,4 +54,4 @@ This project is licensed under the MIT License.
 
 🧑‍💻 Author
 Made with ❤️ by Devanshu Dasgupta
-🌐 LinkedIn | ✉️ devanshudasgupta@gmail.com
+🌐 LinkedIn | ✉️ devanshu.das.gupta14@gmail.com
