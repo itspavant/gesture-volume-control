@@ -47,4 +47,21 @@ A smart and interactive system that lets you **control your PC volume using hand
 
 ## 🗂️ Project Structure
 
+🧑‍💻 Author
+Devanshu Dasgupta
+Tech Head, Devity Club | ML & AI Enthusiast
+LinkedIn • Portfolio
+
+📄 License
+MIT License — Free to use for learning and development.
+
+💡 Future Scope
+Add gesture for increasing/decreasing brightness
+
+Add voice command + gesture hybrid control
+
+Show current volume % in audio UI
+
+Deploy a desktop GUI (Tkinter/PyQt)
+
 
