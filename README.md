@@ -41,3 +41,15 @@ A smart and interactive system that lets you **control your PC volume using hand
 
 ## 🗂️ Project Structure
 
+🤝 Contributing
+Pull requests are welcome! For major changes, open an issue first to discuss what you'd like to change.
+
+🧾 License
+This project is licensed under the MIT License.
+
+🧑‍💻 Author
+Made with ❤️ by Devanshu Dasgupta
+🌐 LinkedIn | ✉️ devanshudasgupta@gmail.com
+
+
+
