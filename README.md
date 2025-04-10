@@ -40,6 +40,7 @@ A smart and interactive system that lets you **control your PC volume using hand
 ---
 
 ## 🗂️ Project Structure
+GestureVolumeControl/ │ ├── HandTrackingModule.py # Hand detection using MediaPipe ├── VolumeHandControl.py # Main gesture-to-volume logic ├── requirements.txt # All dependencies ├── README.md # This file 😄 ├── venv310/ # Virtual environment (optional)
 
 🤝 Contributing
 Pull requests are welcome! For major changes, open an issue first to discuss what you'd like to change.
