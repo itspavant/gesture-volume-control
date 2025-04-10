@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 <p align="center">
   <img src="preview.png" width="500"/>
 </p>
+=======
+>>>>>>> d6743dcfa92a1d5bf2718232874e48bfd3e1acdf
 # 🎛️ Gesture Volume Control using OpenCV, MediaPipe & Pycaw
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
@@ -43,15 +46,29 @@ A smart and interactive system that lets you **control your PC volume using hand
 ---
 
 ## 🗂️ Project Structure
+<<<<<<< HEAD
 
 
 ---
+=======
+GestureVolumeControl/ │ ├── HandTrackingModule.py # Hand detection using MediaPipe ├── VolumeHandControl.py # Main gesture-to-volume logic ├── requirements.txt # All dependencies ├── README.md # This file 😄 ├── venv310/ # Virtual environment (optional)
+
+>>>>>>> d6743dcfa92a1d5bf2718232874e48bfd3e1acdf
 🤝 Contributing
 Pull requests are welcome! For major changes, open an issue first to discuss what you'd like to change.
 
 🧾 License
 This project is licensed under the MIT License.
 
+<<<<<<< HEAD
 🧑‍💻 Author<br>
 Made with ❤️by Devanshu Dasgupta<br>
 🌐 LinkedIn: https://www.linkedin.com/in/devanshu-dasgupta-509641299 | ✉️ devanshu.das.gupta14@gmail.com
+=======
+🧑‍💻 Author
+Made with ❤️ by Devanshu Dasgupta
+🌐 LinkedIn | ✉️ devanshudasgupta@gmail.com
+
+
+
+>>>>>>> d6743dcfa92a1d5bf2718232874e48bfd3e1acdf
