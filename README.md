@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 <p align="center">
   <img src="preview.png" width="500"/>
 </p>
-=======
->>>>>>> d6743dcfa92a1d5bf2718232874e48bfd3e1acdf
-# 🎛️ Gesture Volume Control using OpenCV, MediaPipe & Pycaw
+🎛️ Gesture Volume Control using OpenCV, MediaPipe & Pycaw
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.0+-red?logo=opencv)
@@ -60,15 +57,11 @@ Pull requests are welcome! For major changes, open an issue first to discuss wha
 🧾 License
 This project is licensed under the MIT License.
 
-<<<<<<< HEAD
 🧑‍💻 Author<br>
 Made with ❤️by Devanshu Dasgupta<br>
 🌐 LinkedIn: https://www.linkedin.com/in/devanshu-dasgupta-509641299 | ✉️ devanshu.das.gupta14@gmail.com
 =======
 🧑‍💻 Author
 Made with ❤️ by Devanshu Dasgupta
-🌐 LinkedIn | ✉️ devanshudasgupta@gmail.com
+🌐 LinkedIn | ✉️ devanshu.das.gupta14@gmail.com
 
-
-
->>>>>>> d6743dcfa92a1d5bf2718232874e48bfd3e1acdf
