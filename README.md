@@ -12,7 +12,7 @@ A smart and interactive system that lets you **control your PC volume using hand
 
 ---
 
-## 📽️ Demo
+## 📽️ Demoo
 
 > _Coming soon: GIF demo of controlling volume with finger distance and muting using pinky gesture._
 
