@@ -1,7 +1,7 @@
 <p align="center">
   <img src="preview.png" width="500"/>
 </p>
-🎛️ Gesture Volume Control using OpenCV, MediaPipe & Pycaw
+🎛️ Gesture Volume Control using OpenCV, MediaPipe & Pycawh
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.0+-red?logo=opencv)
