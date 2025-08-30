@@ -75,7 +75,7 @@ For major changes, please open an **issue** first to discuss what you’d like t
 **Devanshu Dasgupta**  
 Made with ❤️ and a passion for open source.  
 
-🌐 [LinkedIn](https://www.linkedin.com/in/devanshu-dasgupta)  
+🌐 [LinkedIn](https://www.linkedin.com/in/devanshu-dasgupta-509641299/)  
 ✉️ [Email](mailto:devanshu.das.gupta14@gmail.com)  
 
 ---
